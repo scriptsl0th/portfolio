@@ -1,0 +1,40 @@
+{
+    "name": "Aziz Dridi - Full Stack Developer",
+    "short_name": "Aziz Dridi",
+    "description": "Portfolio of Aziz Dridi, Expert Full Stack Developer specializing in Angular, Spring Boot, and modern web technologies",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3b82f6",
+    "orientation": "portrait-primary",
+    "lang": "en",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "logo.svg",
+            "sizes": "192x192",
+            "type": "image/webp",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "logo.svg",
+            "sizes": "512x512",
+            "type": "image/webp",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "portfolio",
+        "developer",
+        "technology",
+        "education"
+    ],
+    "screenshots": [
+        {
+            "src": "logo.svg",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "label": "Aziz Dridi Portfolio Homepage"
+        }
+    ]
+}
